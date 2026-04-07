@@ -48,7 +48,6 @@ GET /tankStatus
 
 
 ### Example Output
-Cuando accedas al endpoint, recibirás un objeto JSON estructurado de la siguiente manera:
 
 ```json
 {
