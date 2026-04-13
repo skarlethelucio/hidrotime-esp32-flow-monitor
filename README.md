@@ -1,4 +1,4 @@
-# Hidrotime - ESP32 Water Monitoring System
+# Hydrotime - ESP32 Water Monitoring System
 
 ESP32-based water monitoring system designed for real-time measurement and leak detection.
 
